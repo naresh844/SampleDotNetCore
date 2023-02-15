@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7+ay8dXbCuUxc4GcOGwmtjrPyCMtiQqAUqmRxC4+TtMubzQVtG0WaDZqcilb89FuMCquHIN3pl0Ak9qSvD953Q==",
+  "dgSpecHash": "TAi4IsoME2qxzo+OBYPRMLhS7ImqI33uRChofE0HzGelGe0Ruf8ZIKN1VJe42FB7rDTXRBEOFesk+j6Af5/1og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nares\\Source\\Repos\\SampleDotNetCore\\SampleWebApplication\\SampleWebApplication.csproj",
+  "projectFilePath": "C:\\Development\\SampleWebApplication\\SampleWebApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

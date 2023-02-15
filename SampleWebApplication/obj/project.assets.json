@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nares\\Source\\Repos\\SampleDotNetCore\\SampleWebApplication\\SampleWebApplication.csproj",
+      "projectUniqueName": "C:\\Development\\SampleWebApplication\\SampleWebApplication.csproj",
       "projectName": "SampleWebApplication",
-      "projectPath": "C:\\Users\\nares\\Source\\Repos\\SampleDotNetCore\\SampleWebApplication\\SampleWebApplication.csproj",
+      "projectPath": "C:\\Development\\SampleWebApplication\\SampleWebApplication.csproj",
       "packagesPath": "C:\\Users\\nares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nares\\Source\\Repos\\SampleDotNetCore\\SampleWebApplication\\obj\\",
+      "outputPath": "C:\\Development\\SampleWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nares\\AppData\\Roaming\\NuGet\\NuGet.Config",
